@@ -1,4 +1,4 @@
- ## 👋 Hi there, I'm Ibraheem Adeleke
+ ## 👋 Hi there, I'm Ibraheem Adeleke (AWS scholar)
 
 I'm a Data Scientist with experience in:
 - 📊 NHS healthcare analytics and Data Science workflows
