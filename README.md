@@ -1,16 +1,14 @@
-## Hi there 👋
+ ## 👋 Hi there, I'm Ibraheem Adeleke
 
-<!--
-**Ibraheemolasupogit/Ibraheemolasupogit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with experience in:
+- 📊 NHS healthcare analytics
+- ☁️ Cloud tools: AWS, Azure, GCP
+- 🤖 Machine Learning, MLOps, and AI deployment
+- 📈 Dashboarding with Power BI & Tableau
 
-Here are some ideas to get you started:
+🔭 I’m currently working on: collaborative ML projects and clean-code initiatives
+🌱 I’m learning: advanced MLOps workflows and model governance on AWS
+👯 I’m looking to collaborate on: open-source ML tooling and healthcare AI
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibraheem-adeleke-mbcs-aa349494/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kaggle Badge](https://www.kaggle.com/certification/badges/ibraheemolasupo/50)
