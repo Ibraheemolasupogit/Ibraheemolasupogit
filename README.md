@@ -9,4 +9,4 @@ I'm a Data Scientist with experience in:
 🔭 I’m currently working on: collaborative ML projects and clean-code initiatives.
 🌱 I’m learning: advanced MLOps workflows and AI solutions.
 👯 I’m looking to collaborate on Machine Learning Engineering (MLE) and Data science projects. 
-View my blog : [here](https://medium.com/@ibmexcel)
+View my blog [here](https://medium.com/@ibmexcel)
