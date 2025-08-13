@@ -1,7 +1,7 @@
  ## 👋 Hi there, I'm Ibraheem Adeleke (AWS scholar)
 
 I'm a Data Scientist with experience in:
-- 📊 Analytics and Data Science workflows.
+- 📊 Analytics (Including Big data) and Data Science workflows.
 - 🤖 DevOps, MLOps, and AI deployments.
 - ☁️ Cloud tools: AWS, Azure, GCP.
 - 📈 Dashboarding with Power BI & Tableau.
