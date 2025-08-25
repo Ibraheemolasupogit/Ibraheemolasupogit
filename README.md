@@ -2,7 +2,7 @@
 
 I'm a Data Scientist with experience in:
 - 📊 Analytics (Including Big data) and Data Science workflows.
-- 🤖 DevOps, MLOps, and AI deployments.
+- 🤖 DevOps, MLOps, AI deployments and Automated anomaly detection pipelines. 
 - ☁️ Cloud tools: AWS, Azure, GCP.
 - 📈 Dashboarding with Power BI & Tableau.
 
