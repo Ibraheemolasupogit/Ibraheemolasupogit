@@ -1,10 +1,11 @@
  ## 👋 Hi there, I'm Ibraheem Adeleke (AWS scholar)
 
-I'm a Data Scientist with experience in:
-- 📊 Analytics (Including Big data) and Data Science workflows.
-- 🤖 DevOps, MLOps, AI deployments and Automated anomaly detection pipelines. 
-- ☁️ Cloud tools: AWS, Azure, GCP.
-- 📈 Dashboarding with Power BI & Tableau.
+💡 Data Scientist with expertise in:
+- 📊 Analytics & Data Science – Including Big Data, statistical modelling, and ML workflows
+- 🤖 DevOps, MLOps & AI – Production deployments, CI/CD, and automated anomaly detection pipelines
+- ☁️ Cloud Platforms – AWS, Azure, GCP
+- 🗄️ Databases – SQL, PL/SQL, PostgreSQL, and data engineering for scalable pipelines
+- 📈 Visualization – Building dashboards with Power BI & Tableau
 
 🔭 I’m currently working on: collaborative ML projects and clean-code initiatives.
 🌱 I’m learning: advanced MLOps workflows and AI solutions.
