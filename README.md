@@ -7,7 +7,7 @@
 - 🗄️ Databases – SQL, PL/SQL, PostgreSQL, and data engineering for scalable pipelines
 - 📈 Visualization – Building dashboards with Power BI & Tableau
 
-🔭 I’m currently working on: collaborative ML projects and clean-code initiatives.
-🌱 I’m learning: advanced MLOps workflows and AI solutions.
-👯 I’m looking to collaborate on Machine Learning Engineering (MLE) and Data science projects. 
+🔭 I’m currently working on: collaborative ML projects and clean-code initiatives.<br>
+🌱 I’m learning: advanced MLOps workflows and AI solutions.<br>
+👯 I’m looking to collaborate on Machine Learning Engineering (MLE) and Data science projects. <br>
 View my blog [here](https://medium.com/@ibmexcel)
