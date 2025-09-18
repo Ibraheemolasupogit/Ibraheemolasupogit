@@ -6,6 +6,7 @@
 - ☁️ Cloud Platforms – GCP, AWS, Azure
 - 🗄️ Databases – SQL, PL/SQL, PostgreSQL, and data engineering for scalable pipelines (2 Microsoft Credentials)
 - 📈 Visualization – Building dashboards with Power BI & Tableau
+- 🤝 **Soft Skills** – Agile change management, Lean methodologies, collaboration, and adaptability  
 
 🔭 I’m currently working on: AI 102 certification, collaborative ML projects and clean-code initiatives.<br>
 🌱 I’m learning: AIOps and GenAI solutions.<br>
