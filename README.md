@@ -12,3 +12,9 @@
 🌱 I’m learning: AIOps and GenAI solutions.<br>
 👯 I’m looking to collaborate on Machine Learning Engineering (MLE) and Data science projects. <br>
 View my blog [here](https://medium.com/@ibmexcel)
+
+My Azure Trainings:
+<p align="center">
+  <img src="./ESI_Lab.png" alt="Profile Banner" width="900">
+</p>
+
