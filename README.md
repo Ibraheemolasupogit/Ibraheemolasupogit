@@ -15,6 +15,7 @@ View my blog [here](https://medium.com/@ibmexcel)
 
 My Azure Trainings:
 <p align="center">
-  <img src="./ESI_Lab.png" alt="Profile Banner" width="900">
+  <img src="./ESI_Lab_1.png" alt="Profile Banner" width="900">
+  <img src="./ESI_Lab_2.png" alt="Profile Banner" width="900">
 </p>
 
