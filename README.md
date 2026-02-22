@@ -4,7 +4,7 @@
 - 📊 **Analytics & Data Science** – Including Big Data, statistical modelling, and ML workflows
 - 🤖 **DevOps, MLOps & AI** – Production deployments, CI/CD, and automated anomaly detection pipelines
 - ☁️ **Cloud Platforms** – GCP, AWS, Azure
-- 🗄️ **Databases** – SQL, PL/SQL, PostgreSQL, and data engineering for scalable pipelines (2 Microsoft Credentials)
+- 🗄️ **Databases** – SQL, PL/SQL, PostgreSQL, and data engineering for scalable pipelines
 - 📈 **Visualization** – Building dashboards with Power BI & Tableau
 - 🤝 **Soft Skills** – Agile change management, Lean methodologies, collaboration, and adaptability  
 
