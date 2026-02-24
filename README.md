@@ -8,7 +8,7 @@
 - 📈 **Visualization** – Building dashboards with Power BI & Tableau
 - 🤝 **Soft Skills** – Agile change management, Lean methodologies, collaboration, and adaptability  
 
-🔭 I’m currently working on: AI-102 certification, collaborative ML projects and clean-code initiatives.<br> 
+🔭 I’m currently working on: AI-102, AZ-104, AZ-305, collaborative ML projects and clean-code initiatives.<br> 
 🌱 I’m learning: AIOps and GenAI solutions.<br>
 👯 I’m looking to collaborate on Machine Learning Engineering (MLE) and Data science projects. <br>
 View my blog [here](https://medium.com/@ibmexcel)
