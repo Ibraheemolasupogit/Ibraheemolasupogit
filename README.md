@@ -1,6 +1,6 @@
  ## 👋 Hi there, I'm Ibraheem Adeleke (AWS scholar)
 
-💡 Data Scientist with expertise in:
+💡 Data Expert with expertise in:
 - 📊 **Analytics & Data Science** – Including Big Data, statistical modelling, and ML workflows
 - 🤖 **DevOps, MLOps & AI** – Production deployments, CI/CD, and automated anomaly detection pipelines
 - ☁️ **Cloud Platforms** – GCP, AWS, Azure
