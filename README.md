@@ -13,7 +13,7 @@
 👯 I’m looking to collaborate on Machine Learning Engineering (MLE) and Data science projects. <br>
 View my blog [here](https://medium.com/@ibmexcel)
 
-My Azure Trainings:
+Azure Proficiency:
 <p align="center">
   <img src="./ESI_Lab_1.png" alt="Profile Banner" width="900">
   <img src="./ESI_Lab_2.png" alt="Profile Banner" width="900">
