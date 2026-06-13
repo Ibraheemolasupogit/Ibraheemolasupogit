@@ -49,10 +49,15 @@ Enterprise-grade Databricks Lakehouse architecture covering batch processing, st
 ## Technical Stack
 
 **Languages:** Python, SQL
+
 **ML/AI:** scikit-learn, XGBoost, MLflow, model evaluation, drift monitoring, RAG/LLMOps concepts
+
 **Data Engineering:** batch pipelines, streaming concepts, feature pipelines, data validation
+
 **Cloud:** Azure, AWS, GCP
+
 **DevOps/MLOps:** GitHub Actions, CI/CD, Docker, testing, reproducible project structure
+
 **BI & Analytics:** Power BI, Tableau, operational dashboards
 
 ---
