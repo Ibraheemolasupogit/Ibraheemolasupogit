@@ -70,9 +70,13 @@ I am building a focused AI/ML/Data Science portfolio that demonstrates:
 
 ---
 
+https://www.credly.com/users/ibraheem-adeleke/edit/badges/credly
+
+
+
 ## Links
 
 * **Kaggle:** https://www.kaggle.com/ibraheemolasupo
 * **Microsoft Learn:** https://learn.microsoft.com/en-us/users/adelekeibraheem-2024/credentials/applied-skills/earned
-* **Credly:** https://www.credly.com/badges/d3983ad5-e2ad-4426-8e6a-593cdf7b2acb/public_url
+* **Credly:** https://www.credly.com/users/ibraheem-adeleke/edit/badges/credly
 * **Email:** [ibraheemolasupo@yahoo.com](mailto:ibraheemolasupo@yahoo.com)
