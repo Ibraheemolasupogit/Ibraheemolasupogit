@@ -70,10 +70,6 @@ I am building a focused AI/ML/Data Science portfolio that demonstrates:
 
 ---
 
-https://www.credly.com/users/ibraheem-adeleke/edit/badges/credly
-
-
-
 ## Links
 
 * **Kaggle:** https://www.kaggle.com/ibraheemolasupo
